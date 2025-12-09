@@ -15,4 +15,5 @@ filtering for
 - JMDict Project
 - JmdictFurigana (by Doublevil) 
 - nihongo (by sph-mn)
+  
 (As of now, JMNDict Project words wont be covered)
