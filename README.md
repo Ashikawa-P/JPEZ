@@ -13,7 +13,7 @@ In practice, learners can:
 
 - use the Web-GUI to filter out all words where a given kanji is **not** pronounced in a user-selected way  
 - select one reading per kanji and obtain a subset of words whose pronunciation is then locally *deterministic* for that learner
-- selecting another pronunciation for a Kanji (e.g. after learning all words from the last list) will add all the words in which this pronunciation is applied
+- After learning all words in a given subset, unlocking an additional reading for a kanji extends your vocabulary without breaking the perceived determinism: within the JPEZ-generated word set, every new word containing that kanji will use the newly unlocked reading, and already known words will keep the readings you learned before.
 
 The idea: if every kanji in your active vocabulary has only one active reading, the resulting words become easier to read, recall and internalize. After learning them all, adding another reading to a Kanji will not break the perceived determinism as every unknown word will now use the newly selected reading and every known utilises the known.
 
