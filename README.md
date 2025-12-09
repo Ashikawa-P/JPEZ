@@ -1,5 +1,5 @@
 # JPEZ
-Tool to simulate determinism in Japanese pronunciation for learners
+Tool to simulate determinism in Japanese pronunciation, easing the process of learning japanese
 
 ## What is this?
 
