@@ -15,7 +15,7 @@ In practice, learners can:
 - select one reading per kanji and obtain a subset of words whose pronunciation is then locally *deterministic* for that learner
 - selecting another pronunciation for a Kanji (e.g. after learning all words from the last list) will add all the words in which this pronunciation is applied
 
-The idea: if every kanji in your active vocabulary has only one active reading, the resulting words become easier to read, recall and internalize.
+The idea: if every kanji in your active vocabulary has only one active reading, the resulting words become easier to read, recall and internalize. After learning them all, adding another reading to a Kaji will not break the perceived determinism as every unknown word will use the new reading an every known utilises the known.
 
 ## Initial scope
 
