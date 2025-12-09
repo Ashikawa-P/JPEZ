@@ -11,11 +11,14 @@ JPEZ explores a different angle: it tries to **simulate determinism** in pronunc
 
 In practice, learners can:
 
-- filter out all words where a given kanji is **not** pronounced in a user-selected way  
+- use the Web-GUI to filter out all words where a given kanji is **not** pronounced in a user-selected way  
 - select one reading per kanji and obtain a subset of words whose pronunciation is then locally *deterministic* for that learner
 - selecting another pronunciation for a Kanji (e.g. after learning all words from the last list) will add all the words in which this pronunciation is applied
 
-The idea: if every kanji in your active vocabulary has only one active reading, the resulting words become easier to read, recall and internalize. After learning them all, adding another reading to a Kaji will not break the perceived determinism as every unknown word will use the new reading an every known utilises the known.
+The idea: if every kanji in your active vocabulary has only one active reading, the resulting words become easier to read, recall and internalize. After learning them all, adding another reading to a Kanji will not break the perceived determinism as every unknown word will now use the newly selected reading and every known utilises the known.
+
+# Example
+A learner sets 生 to be read as 'せい'. JPEZ returns all words using 生 with that reading (e.g. 先生, 学生, etc.). Words using 生 as 'なま' or 'しょう' are excluded until the learner activates those readings.
 
 ## Initial scope
 
